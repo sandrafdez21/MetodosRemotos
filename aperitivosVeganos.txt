@@ -1,10 +1,6 @@
-Hummus
-Empanada de verduras
-Queso (Varios tipos distintos)
-<<<<<<< HEAD
-Pizzas Vegtarianas
-Hamburguesas de tofu
-=======
-Pizzas
+Nachos
+Embutido
+Tortilla
+Aceitunas
+Patatas Fritas
 Hamburguesas
->>>>>>> 7af2606 (Modificado documento de lola)
